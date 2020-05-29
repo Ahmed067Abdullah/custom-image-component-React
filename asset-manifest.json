@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/custom-image-component-React/static/css/main.26ad219c.chunk.css",
+    "main.js": "/custom-image-component-React/static/js/main.a7406696.chunk.js",
+    "main.js.map": "/custom-image-component-React/static/js/main.a7406696.chunk.js.map",
+    "runtime-main.js": "/custom-image-component-React/static/js/runtime-main.fa0d3b08.js",
+    "runtime-main.js.map": "/custom-image-component-React/static/js/runtime-main.fa0d3b08.js.map",
+    "static/js/2.429f7f27.chunk.js": "/custom-image-component-React/static/js/2.429f7f27.chunk.js",
+    "static/js/2.429f7f27.chunk.js.map": "/custom-image-component-React/static/js/2.429f7f27.chunk.js.map",
+    "index.html": "/custom-image-component-React/index.html",
+    "precache-manifest.0c21c62ac4813c28b6d12b8d339b14b3.js": "/custom-image-component-React/precache-manifest.0c21c62ac4813c28b6d12b8d339b14b3.js",
+    "service-worker.js": "/custom-image-component-React/service-worker.js",
+    "static/css/main.26ad219c.chunk.css.map": "/custom-image-component-React/static/css/main.26ad219c.chunk.css.map",
+    "static/js/2.429f7f27.chunk.js.LICENSE.txt": "/custom-image-component-React/static/js/2.429f7f27.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fa0d3b08.js",
+    "static/js/2.429f7f27.chunk.js",
+    "static/css/main.26ad219c.chunk.css",
+    "static/js/main.a7406696.chunk.js"
+  ]
+}
